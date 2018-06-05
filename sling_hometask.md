@@ -4,14 +4,14 @@
 
 ### 2. Частина мови і зв'язок до батька (English)
 1. We can {but} hope that everything will be fine.: сonjunction, cc (hope, but)
-2. It's sad {but} true.: 
-3. Jack brings nothing {but} trouble.
-4. {As} we were talking, I realised how to solve the issue.
-5. This hot dog isn't {as} big as usual.
-6. This hot dog isn't as big {as} usual.
-7. This hot dog isn't as big {as} I expected.
-8. I work {as} a teacher.
-9. Let's do it this {way}!
+2. It's sad {but} true.: conjunction, cc (true, but)
+3. Jack brings nothing {but} trouble.: conjunction, cc (trouble, but)
+4. {As} we were talking, I realised how to solve the issue.: conjunction, cc (we, as)
+5. This hot dog isn't {as} big as usual.: adverb, (big, as)
+6. This hot dog isn't as big {as} usual.: adverb, (usual, as)
+7. This hot dog isn't as big {as} I expected.: conjunction, (big, as)
+8. I work {as} a teacher.: preposition, (I, as)
+9. Let's do it this {way}!: 
 10. This is {way} too much!
 11. The prices are going {down}.
 12. Someone pushed him and he fell {down} the stairs.
