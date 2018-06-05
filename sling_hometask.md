@@ -1,23 +1,23 @@
 ### 1. Snowball stemmer
 Для спільнокореневих слів англійської мови основа змінюється при зміні значення слова, наприклад, коли до нього додаються префікси un-, dis-, in, суфікси -less -logy.
-Російськомовні слова стемізуються таким чином, що прибираються суфікси і закінчення, якізмінююсть слова за відмінками.
+Російськомовні слова стемізуються таким чином, що прибираються суфікси і закінчення, які змінююсть слова за відмінками.
 
 ### 2. Частина мови і зв'язок до батька (English)
-1. We can {but} hope that everything will be fine.: сonjunction, cc (hope, but)
-2. It's sad {but} true.: conjunction, cc (true, but)
-3. Jack brings nothing {but} trouble.: conjunction, cc (trouble, but)
-4. {As} we were talking, I realised how to solve the issue.: conjunction, cc (we, as)
-5. This hot dog isn't {as} big as usual.: adverb, (big, as)
-6. This hot dog isn't as big {as} usual.: adverb, (usual, as)
-7. This hot dog isn't as big {as} I expected.: conjunction, (big, as)
-8. I work {as} a teacher.: preposition, (I, as)
-9. Let's do it this {way}!: 
-10. This is {way} too much!
-11. The prices are going {down}.
-12. Someone pushed him and he fell {down} the stairs.
-13. I’ve been feeling rather {down} lately.
-14. It's not easy to {down} a cup of coffee in one gulp.
-15. Bring a {down} jacket and a pair of gloves, and you'll be fine.
+1. We can {but} hope that everything will be fine.: сonjunction, cc (can, but)
+2. It's sad {but} true.: conjunction, cc (sad, but)
+3. Jack brings nothing {but} trouble.: conjunction, cc (nothing, but)
+4. {As} we were talking, I realised how to solve the issue.: preposition, mark (talking, as)
+5. This hot dog isn't {as} big as usual.: adverb, advmod (big, as)
+6. This hot dog isn't as big {as} usual.: preposition, prep (big, as)
+7. This hot dog isn't as big {as} I expected.: preposition, mark (expected, as)
+8. I work {as} a teacher.: preposition, prep (work, as)
+9. Let's do it this {way}!: noun, npadvmod (do, way)
+10. This is {way} too much!: adverb, advmod (much, way)
+11. The prices are going {down}.: adverb, prt (giong, down)
+12. Someone pushed him and he fell {down} the stairs.: preposition, prep (fell, down)
+13. I’ve been feeling rather {down} lately.: adverb, advmod (feeling, down)
+14. It's not easy to {down} a cup of coffee in one gulp.: verb, xcomp (is, down)
+15. Bring a {down} jacket and a pair of gloves, and you'll be fine.: adjective, amod (jacket, down)
 
 ### 3. Частина мови, лема і зв'язок до батька (українська)
 1. Рада міністрів Європейського союзу затвердила угоду про спрощений порядок видачі {віз} для України.: іменник, (видачі, віз)
